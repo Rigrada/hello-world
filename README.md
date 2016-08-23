@@ -1,2 +1,4 @@
 # hello-world
-A soft repository
+Hi people,
+I'm learning about this soft repository.
+
